@@ -1,6 +1,6 @@
 [device]
 id = "1c424428-25d1-4835-9160-787e7e3f38e5"
-name = "X580 FEEL"
+name = "X580 FEEL (X580LS X580LR)"
 description = "X580LS X580LR"
 
 [[device.firmware]]

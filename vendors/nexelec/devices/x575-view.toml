@@ -1,6 +1,6 @@
 [device]
 id = "a1247d9c-8fbf-4356-94e7-2ef61c0bcc46"
-name = "X575 VIEW"
+name = "X575 VIEW (X575LS X575LR)"
 description = "X575LS X575LR"
 
 [[device.firmware]]

@@ -1,6 +1,6 @@
 [device]
 id = "ec8cf089-93b1-47c4-a110-08c49adb8016"
-name = "A300 FLOW CORE"
+name = "A300 FLOW CORE (A300LS A300LR)"
 description = "A300LS A300LR"
 
 [[device.firmware]]

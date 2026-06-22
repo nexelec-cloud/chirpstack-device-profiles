@@ -1,6 +1,6 @@
 [device]
 id = "3ae4abf0-22c4-44f6-a899-c90bf0b2b1d6"
-name = "X565 SIGN"
+name = "X565 SIGN (X565LS X565LR)"
 description = "X565LS X565LR"
 
 [[device.firmware]]

@@ -1,6 +1,6 @@
 [device]
 id = "abe77442-9c64-40c3-a005-0cb1661feac2"
-name = "RAK 7201"
+name = "RAK 7201 (A920EX)"
 description = "A920EX"
 
 [[device.firmware]]

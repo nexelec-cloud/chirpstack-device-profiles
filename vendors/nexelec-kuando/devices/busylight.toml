@@ -1,6 +1,6 @@
 [device]
 id = "3343b77f-4422-4682-997f-bb5ba79b8a9e"
-name = "BUSYLIGHT"
+name = "BUSYLIGHT (AX915EX)"
 description = "AX915EX"
 
 [[device.firmware]]

@@ -1,6 +1,6 @@
 [device]
 id = "414f0ccc-1b24-447b-baf5-e97a7afca465"
-name = "X530 WAVE"
+name = "X530 WAVE (X530LS X530LR)"
 description = "X530LS X530LR"
 
 [[device.firmware]]
