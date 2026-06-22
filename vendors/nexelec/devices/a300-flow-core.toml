@@ -1,0 +1,14 @@
+[device]
+id = "ec8cf089-93b1-47c4-a110-08c49adb8016"
+name = "A300 FLOW CORE"
+description = "A300LS A300LR"
+
+[[device.firmware]]
+version = "1.0.0"
+profiles = [
+    "EU868_104_RP002-103_A.toml",
+    "US915_104_RP002-103_A.toml",
+]
+
+[device.metadata]
+documentation_url = "https://support.nexelec.fr/fr/support/solutions/folders/80000731001"

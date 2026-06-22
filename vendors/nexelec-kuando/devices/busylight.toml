@@ -1,0 +1,11 @@
+[device]
+id = "3343b77f-4422-4682-997f-bb5ba79b8a9e"
+name = "BUSYLIGHT"
+description = "AX915EX"
+
+[[device.firmware]]
+version = "1.0.0"
+profiles = ["EU868_103_RP-A_C.toml"]
+
+[device.metadata]
+documentation_url = "https://www.plenom.com/downloads/download-documents/"

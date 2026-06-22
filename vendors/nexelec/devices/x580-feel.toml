@@ -1,0 +1,14 @@
+[device]
+id = "1c424428-25d1-4835-9160-787e7e3f38e5"
+name = "X580 FEEL"
+description = "X580LS X580LR"
+
+[[device.firmware]]
+version = "1.0.0"
+profiles = [
+    "EU868_104_RP002-103_A.toml",
+    "US915_104_RP002-103_A.toml",
+]
+
+[device.metadata]
+documentation_url = "https://support.nexelec.fr/fr/support/solutions/articles/80001085095"

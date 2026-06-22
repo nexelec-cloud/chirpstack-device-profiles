@@ -1,0 +1,8 @@
+[vendor]
+id = "a9210602-110a-48e7-ab90-e57f9a50526c"
+name = "Nexelec RAK"
+vendor_id = 0
+ouis = []
+
+[vendor.metadata]
+homepage = "https://docs.rakwireless.com/"
