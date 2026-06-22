@@ -1,0 +1,11 @@
+[device]
+id = "abe77442-9c64-40c3-a005-0cb1661feac2"
+name = "RAK 7201"
+description = "A920EX"
+
+[[device.firmware]]
+version = "1.0.0"
+profiles = ["EU868_102_RP-B_A.toml"]
+
+[device.metadata]
+documentation_url = "https://docs.rakwireless.com/product-categories/wisnode/rak7201/datasheet/"
