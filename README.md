@@ -334,3 +334,7 @@ vendor in the left menu, then use the **Profiles**, **Codecs**, and **Devices**
 menus to add entries through the form. The tool writes the TOML files for you.
 
 This requires Docker to be installed and running.
+
+## Synchronization
+
+Once the new profiles added, run this [Ansible Playbook](https://github.com/nexelec-cloud/vms_config/blob/main/chirpstack_v4/network_server/import/playbook.yaml) to push changes to the network server.
