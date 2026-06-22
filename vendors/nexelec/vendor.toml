@@ -1,0 +1,8 @@
+[vendor]
+id = "eb7ee165-1d04-4e5e-9abf-c314edd2a984"
+name = "Nexelec"
+vendor_id = 0
+ouis = []
+
+[vendor.metadata]
+homepage = "https://nexelec.eu/"
