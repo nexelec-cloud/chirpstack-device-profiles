@@ -1,6 +1,6 @@
 [device]
 id = "f5ee03a3-0826-4ef6-a4a2-d7fd9cb9d9ab"
-name = "A310 FLOW PRO"
+name = "A310 FLOW PRO (A310LS A310LR)"
 description = "A310LS A310LR"
 
 [[device.firmware]]

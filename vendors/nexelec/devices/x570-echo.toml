@@ -1,6 +1,6 @@
 [device]
 id = "912dd0f7-fd73-46fe-9b33-c7fcfbb2c4ea"
-name = "X570 ECHO"
+name = "X570 ECHO (X570LS X570LR)"
 description = "X570LS X570LR"
 
 [[device.firmware]]

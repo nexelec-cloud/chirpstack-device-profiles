@@ -1,6 +1,6 @@
 [device]
 id = "0eb2198c-07cc-44a4-afb0-8c6c7e3b1190"
-name = "X590 MOVE"
+name = "X590 MOVE (X590LS X590LR)"
 description = "X590LS X590LR"
 
 [[device.firmware]]

@@ -1,6 +1,6 @@
 [device]
 id = "2c577079-3a90-40fd-bd64-6635736f66ec"
-name = "X520 RISE"
+name = "X520 RISE (X520LS X520LR)"
 description = "X520LS X520LR"
 
 [[device.firmware]]
